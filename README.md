@@ -20,6 +20,8 @@
 
 </div>
 
+---
+
 I am a highly skilled and experienced frontend developer with a passion for creating visually stunning and user-friendly websites and web applications.
 With a strong background in HTML, CSS, and JavaScript, I am able to develop responsive and cross-browser compatible designs that are optimized for search engines. I have experience with a variety of frontend frameworks and libraries, such as React and Vue, and am always looking to stay up to date with the latest technologies and trends. My strong problem-solving skills, attention to detail, and ability to work in a team environment make me a valuable asset to any organization.
 Let's make something great together.
