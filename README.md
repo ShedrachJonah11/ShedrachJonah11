@@ -33,7 +33,10 @@ Let's make something great together.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Intermediate level).
 - 📫 You can [view my resume](#) and contact me by emailing shedrachjonah11@gmail.com
 
+---
+
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
