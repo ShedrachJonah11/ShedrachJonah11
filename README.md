@@ -37,21 +37,21 @@ Let's make something great together.
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shedrachjonah11-Fon&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shedrachjonah11&theme=tokyonight)](https://git.io/streak-stats)
 <!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Desmond-Fon&hide=contribs,prs&theme=tokyonight&background=000000&show_icons=true) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shedrachjonah11-Fon&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shedrachjonah11&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture >
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Shedrachjonah11-Fon&show_icons=true&theme=tokyonight"
+  srcset="https://github-readme-stats.vercel.app/api?username=Shedrachjonah11&show_icons=true&theme=tokyonight"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=Shedrachjonah11-Fon&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=Shedrachjonah11&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=Shedrachjonah11-Fon&show_icons=true&text_color=00fe99" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shedrachjonah11&show_icons=true&text_color=00fe99" />
 </picture>
 
 ---
