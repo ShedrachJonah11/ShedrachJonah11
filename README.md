@@ -2,8 +2,6 @@
   <h1>Hey there! I'm Shedrach <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Wave" /></h1> 
 </div>
 
----
-
 ### About Me
 I specialize in crafting responsive, user-friendly websites and web applications using HTML, CSS, and JavaScript. Proficient in React, Vue, and modern frameworks, I stay updated with the latest tech trends. My problem-solving skills, attention to detail, and teamwork make me a strong contributor. I’m eager to collaborate on open source projects and create impactful solutions. Let’s build something amazing together!
 
