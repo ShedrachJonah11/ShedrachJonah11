@@ -60,6 +60,25 @@ Let's make something great together.
 
 ### :fire: My Stats :
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShedrachJonah11&theme=cobalt2" alt="GitHub Profile Summary" />
+</p>
+
+<p>
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShedrachJonah11&theme=transparent" alt="Most Commit Language" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mbragi&theme=transparent" alt="Repositories per Language" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShedrachJonah11&show_icons=true&rank_icon=github&locale=en&theme=transparent&hide_border=true" alt="GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShedrachJonah11&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" alt="Top Languages" />
+</p>
+
+<p>
+    <img src="https://github-profile-trophy.vercel.app/?username=ShedrachJonah11&theme=algolia&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shedrachjonah11&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shedrachjonah11&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
