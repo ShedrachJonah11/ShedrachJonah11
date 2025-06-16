@@ -1,8 +1,6 @@
-<div align="center">
+<div align="left">
   <h1>Hey there! I'm Shedrach <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Wave" /></h1>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Dancing" />
-  
-  <p>A passionate frontend developer with 3 years of experience, building innovative web solutions with a love for open source.</p>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/shedrach-jonah-4894a722a/">
