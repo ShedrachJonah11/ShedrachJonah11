@@ -75,5 +75,4 @@ I specialize in crafting responsive, user-friendly websites and web applications
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
   </div>
-- [shedrachjonah11@gmail.com](mailto:shedrachjonah11@gmail.com)
 </div>
