@@ -46,7 +46,7 @@ I specialize in crafting responsive, user-friendly websites and web applications
 ---
 
 ### :chart_with_upwards_trend: GitHub Stats
-<p align="center">
+<p align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShedrachJonah11&theme=cobalt2" alt="GitHub Profile Summary" />
 </p>
 
