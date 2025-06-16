@@ -8,7 +8,7 @@ I specialize in crafting responsive, user-friendly websites and web applications
 - 😊 **Pronouns**: He/him
 - 🎓 **Fun Fact**: Graduated from AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023
 - 🌱 **Learning**: JavaScript, TypeScript, React.js, Python
-- 🤝 **Seeking**: Open source projects, hackathons, internships, entry-level roles
+- 🤝 **Seeking**: open source projects, hackathons, internships, entry-level roles
 - 💼 **Job Interests**: Software Engineer, Front Engineer, UI Engineer (Intern or Intermediate)
 - 📧 **Contact**: [shedrachjonah11@gmail.com](mailto:shedrachjonah11@gmail.com)
 
@@ -46,12 +46,12 @@ I specialize in crafting responsive, user-friendly websites and web applications
 ---
 
 ### :chart_with_upwards_trend: GitHub Stats
-<p align="left">
+<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShedrachJonah11&theme=cobalt2" alt="GitHub Profile Summary" />
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=ShedrachJonah11&theme=tokyonight" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ShedrachJonah11&theme=tokyonight" alt="GitHub Streak" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShedrachJonah11&theme=transparent" alt="Most Commit Language" />
 </p>
 
@@ -75,5 +75,5 @@ I specialize in crafting responsive, user-friendly websites and web applications
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
   </div>
-- [newemail@example.com](mailto:newemail@example.com)
+- [shedrachjonah11@gmail.com](mailto:shedrachjonah11@gmail.com)
 </div>
