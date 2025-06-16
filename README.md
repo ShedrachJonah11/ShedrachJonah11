@@ -62,17 +62,13 @@ I specialize in crafting responsive, user-friendly websites and web applications
 ---
 
 ### :chart_with_upwards_trend: GitHub Stats
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <p align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShedrachJonah11&theme=cobalt2" alt="GitHub Profile Summary" />
-    </p>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ShedrachJonah11&theme=tokyonight" alt="GitHub Streak" />
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ShedrachJonah11&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShedrachJonah11&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </div>
+<div align="center">
+  <p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShedrachJonah11&theme=cobalt2" alt="GitHub Profile Summary" />
+  </p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShedrachJonah11&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShedrachJonah11&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShedrachJonah11&layout=compact&theme=tokyonight" alt="Top Languages" />
   <img src="https://github-profile-trophy.vercel.app/?username=ShedrachJonah11&theme=algolia&column=6" alt="GitHub Trophies" />
 </div>
 
