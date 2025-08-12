@@ -3,7 +3,7 @@
 </div>
 
 ### About Me
-I specialize in crafting responsive, user-friendly websites and web applications using HTML, CSS, and JavaScript. Proficient in React, Vue, and modern frameworks, I stay updated with the latest tech trends. My problem-solving skills, attention to detail, and teamwork make me a strong contributor. I’m eager to collaborate on open source projects and create impactful solutions. Let’s build something amazing together!
+I specialize in crafting responsive user-friendly websites and web applications using HTML, CSS, and JavaScript. Proficient in React, Vue, and modern frameworks, I stay updated with the latest tech trends. My problem-solving skills, attention to detail, and teamwork make me a strong contributor. I’m eager to collaborate on open source projects and create impactful solutions. Let’s build something amazing together!
 
 - 😊 **Pronouns**: He/him
 - 🎓 **Fun Fact**: Graduated from AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023
